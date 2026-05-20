@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=Ricroy&theme=dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api?username=Ricroy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api?username=Ricroy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://komarev.com/ghpvc/?username=Ricroy&style=for-the-badge&label=PROFILE+VIEWS&color=orange)
 
 ## 💻 Tech Stack:
