@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## haha
 
-<img src="https://github-readme-stats.shion.dev/api?username=Ricroy&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="500"/> <img src="https://streak-stats.demolab.com/?user=Ricroy&theme=dark&hide_border=false" width="500"/>
+<img src="https://github-readme-stats.shion.dev/api?username=Ricroy&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="400"/> <img src="https://streak-stats.demolab.com/?user=Ricroy&theme=dark&hide_border=false" width="400"/>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=Ricroy&style=for-the-badge&label=PROFILE+VIEWS&color=orange" width="200" />
 
