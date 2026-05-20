@@ -22,6 +22,12 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.shion.dev/api?username=Ricroy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://komarev.com/ghpvc/?username=Ricroy&style=for-the-badge&label=PROFILE+VIEWS&color=orange)
 
+## haha
+<img src="https://streak-stats.demolab.com/?user=Ricroy&theme=dark&hide_border=false" width="400" />
+<img src="https://github-readme-stats.shion.dev/api?username=Ricroy&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="400" />
+<br/>
+<img src="https://komarev.com/ghpvc/?username=Ricroy&style=for-the-badge&label=PROFILE+VIEWS&color=orange" width="200" />
+
 ## 💻 Tech Stack:
 
 ### Languages and Tools I learned or used
