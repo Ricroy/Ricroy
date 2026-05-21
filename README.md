@@ -13,9 +13,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
+# 💫 A Little Bit About Me and My Interests:
+<!--
 🔭 I’m currently working on University Projects<br>
 🌱 I’m currently learning Machine Learning, Deep Learning and Data Visualization<br>
+-->
+
+``` yaml
+  name: Riccardo
+  located_in: Sardinia, Italy
+  current_job: Full-time Student
+
+  fields_of_interests:
+    [
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Data Visualization",
+    ]
+
+  Hobbies: ["Reading","Gaming"]
+```
 
 ## 📊 GitHub Stats:
 <img src="https://github-readme-stats.shion.dev/api?username=Ricroy&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="400"/> <img src="https://streak-stats.demolab.com/?user=Ricroy&theme=dark&hide_border=false" width="400"/>
