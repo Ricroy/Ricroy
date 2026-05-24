@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ``` yaml
   name: Riccardo
   located_in: Sardinia, Italy
-  current_job: Full-time Student
+  current_job: Full-time Student, University of Cagliari
 
   fields_of_interests:
     [
