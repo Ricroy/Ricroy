@@ -31,7 +31,7 @@ Here are some ideas to get you started:
       "Data Visualization",
     ]
 
-  Hobbies: ["Reading","Gaming"]
+  Hobbies: ["Reading","Coding","Cinema"]
 ```
 <!--
 ## 📊 GitHub Stats:
